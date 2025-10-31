@@ -1,0 +1,21 @@
+Dart/Flutter
+
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+*.apk
+*.aab
+
+IDE files
+
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+Other
+
+*.log
